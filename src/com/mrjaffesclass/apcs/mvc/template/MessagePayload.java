@@ -5,7 +5,7 @@ package com.mrjaffesclass.apcs.mvc.template;
  * field / value message data for the up/down buttons
  * 
  * @author Roger Jaffe
- * @version 1.0
+ * @version 1.1
  */
 public class MessagePayload {
   
